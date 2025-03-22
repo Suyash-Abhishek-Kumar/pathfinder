@@ -1,5 +1,3 @@
-Apologies for the earlier inaccuracies. Based on the information from your repository , here's a revised README.md for your **PathFinder** project:
-
 ```markdown
 # PathFinder
 
@@ -29,11 +27,6 @@ To run the PathFinder simulation locally, follow these steps:
    source env/bin/activate  # On Windows, use 'env\Scripts\activate'
    ```
 
-3. **Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 To start the simulation:
@@ -52,24 +45,6 @@ This command will launch the visualization of Dijkstra's algorithm applied to th
 - `python_display.py`: Manages the graphical display of the simulation.
 - `graphics/`: Directory containing graphical assets used in the visualization.
 
-## Contributing
-
-Contributions to enhance the PathFinder project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For questions or suggestions, please open an issue in this repository.
-
-```
-
-Feel free to customize this README further to align with your project's specifics. 
